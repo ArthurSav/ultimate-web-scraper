@@ -1,4 +1,4 @@
-# PandaExtract - The Ultimate Web Scraper for Data Extraction
+# Ultimate Web Scraper 
 
 A powerful, AI-driven web scraper that helps businesses and individuals extract data from any website without coding. Perfect for lead generation, market research, and data analysis.
 
