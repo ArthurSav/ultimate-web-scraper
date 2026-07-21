@@ -6,13 +6,13 @@ Ultimate Web Scraper is a powerful, AI-driven web scraper that helps businesses 
 [![Active Users](https://img.shields.io/badge/active%20users-600%2B-success)](https://chromewebstore.google.com/detail/ultimate-web-scraper/pdeldjlcnhallaapdggcmhpailpnnkmg)
 [![AI & MCP](https://img.shields.io/badge/AI%20%26%20MCP-Claude%20ready-8A63D2)](https://ultimatewebscraper.com/docs/ai)
 
-![Ultimate Web Scraper Promo](assets/maquee-promo.png)
+![Ultimate Web Scraper Promo](assets/maquee-promo-v2.png)
 
 Ultimate Web Scraper (formerly PandaExtract) is a powerful, user-friendly web scraper that lets you extract data from any website with just a few clicks — no coding skills required. Run it locally as a Chrome extension, in the cloud at scale, or through **AI agents like Claude** connected over MCP.
 
 ## 🚀 Key Features
 
-![Feature Overview](assets/screenshot-1-1.png)
+![Feature Overview](assets/screenshot-1-1-v2.png)
 
 - **One-Click Extraction**: Instantly scrape lists, tables, and other structured data
 - **Smart Pagination**: Automatically handles infinite scrolling and pagination
@@ -31,7 +31,7 @@ Ultimate Web Scraper (formerly PandaExtract) is a powerful, user-friendly web sc
 
 ## 🤖 AI Web Scraper with MCP — Built for Claude
 
-![AI & MCP](assets/screenshot-1-1.png)
+![AI & MCP](assets/screenshot-1-1-v2.png)
 
 Ultimate Web Scraper **speaks MCP** (Model Context Protocol) — the open standard that lets AI assistants connect to your tools. Connect your cloud workspace to Claude and other AI agents, then scrape and work with your data conversationally:
 
@@ -47,9 +47,9 @@ AI connections are **rolling out now** for cloud workspaces. → [Connect an AI 
 
 | 📋 List Extraction                                                   | 📧 Email Scraping                                                   |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| <img src="assets/tab-list.png" alt="List Extraction" width="400"/>   | <img src="assets/tab-emails.png" alt="Email Scraping" width="400"/> |
+| <img src="assets/tab-list-v2.png" alt="List Extraction" width="400"/>   | <img src="assets/tab-emails-v2.png" alt="Email Scraping" width="400"/> |
 | **🖼️ Image Downloads**                                               | **⚙️ Customizable Settings**                                        |
-| <img src="assets/tab-images.png" alt="Image Downloads" width="400"/> | <img src="assets/tab-settings.png" alt="Settings" width="400"/>     |
+| <img src="assets/tab-images-v2.png" alt="Image Downloads" width="400"/> | <img src="assets/tab-settings-v2.png" alt="Settings" width="400"/>     |
 
 ## 💼 Perfect For
 
@@ -64,7 +64,7 @@ AI connections are **rolling out now** for cloud workspaces. → [Connect an AI 
 
 ## 🎯 Popular Use Cases
 
-![Use Cases](assets/screenshot-2-2.png)
+![Use Cases](assets/screenshot-2-2-v2.png)
 
 - AI Web Scraping with Claude (MCP)
 - Trustpilot Reviews Extraction
@@ -78,7 +78,7 @@ AI connections are **rolling out now** for cloud workspaces. → [Connect an AI 
 
 ## 📊 Export Options
 
-![Export Options](assets/screenshot-3-3.png)
+![Export Options](assets/screenshot-3-3-v2.png)
 
 - CSV
 - Excel
@@ -94,7 +94,7 @@ AI connections are **rolling out now** for cloud workspaces. → [Connect an AI 
 
 ## 🌟 Why Choose Ultimate Web Scraper?
 
-![Why Choose Us](assets/screenshot-4-4.png)
+![Why Choose Us](assets/screenshot-4-4-v2.png)
 
 1. No coding required
 2. Lightning-fast extraction
